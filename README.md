@@ -18,3 +18,6 @@ Ganha o jogo quem chegar a 100 pontos primeiro.
 Pode testa-lo aqui: [gira-dado-monteiro](https://gira-dado-monteiro.netlify.app/)
 
 Divirta-se :)
+
+### Preview
+<a href="https://gira-dado-monteiro.netlify.app/"><img src="screencapture-gira-dado.png" class="media-object  img-responsive img-thumbnail" width="550px"></a>
