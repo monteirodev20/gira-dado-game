@@ -13,6 +13,6 @@ Quando for a sua vez, pode girar quantas vezes quiser mas atenção ao número d
 
 Ganha o jogo que que chegar a 100 pontos primeiro.
 
-Pode testa-lo aqui: https://gira-dado-monteiro.netlify.app/
+Pode testa-lo aqui: [gira-dado-monteiro](https://gira-dado-monteiro.netlify.app/)
 
 Divirta-se :)
