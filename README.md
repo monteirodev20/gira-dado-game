@@ -1,6 +1,8 @@
 # Jogo gira o dado
 
-manipulação de DOM.
+## Habilidades
+- Manipulação de DOM 
+- Lógica de programação
 
 Este jogo é simples mas divertido se jogar com a pessoa certa.
 
@@ -11,7 +13,7 @@ Ao clicar em “GIRA O DADO” você acumula pontos na zona ATUAL, esses pontos 
 
 Quando for a sua vez, pode girar quantas vezes quiser mas atenção ao número de azar que é o número 1 no dado, o número 1 passa a jogada para o proximo jogador e perde os pontos que estiver na zona ATUAL.
 
-Ganha o jogo que que chegar a 100 pontos primeiro.
+Ganha o jogo quem chegar a 100 pontos primeiro.
 
 Pode testa-lo aqui: [gira-dado-monteiro](https://gira-dado-monteiro.netlify.app/)
 
